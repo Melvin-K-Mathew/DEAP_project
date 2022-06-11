@@ -35,3 +35,10 @@ print("vitish")
 
 print("CAGR Cal is working Good")
 print("Thak you for using our service")
+
+
+
+
+
+
+print("Well Done")
